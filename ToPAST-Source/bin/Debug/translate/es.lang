@@ -1,0 +1,227 @@
+ToPAST: Tales of Pirates herramientas de servidor
+¡Error! Cuadro Máximo está vacía o es NaN
+¡Error! Minima cuadro está vacío o es NaN
+Generar & & Copiar
+Monto a desovar
+Tiempo de Spawn (segundos)
+SÍ
+NO
+bando
+no bando
+Promover
+Degradar
+'|' = Raíz cuadrada, '^' = Poder, '#' = directa Añadir
+Copiar
+Cargar
+No
+Sí
+Nuevo
+Cambiar
+IP
+Pegar (Ctrl + V)
+O
+Ir
+Buscar Habilidad
+Buscar artículo
+Buscar monstruo
+Buscar caracteres
+Editor de monstruo
+Habilidad Editor
+Generar
+Servidor
+Guardar por ID
+Editores
+Salida
+Calculadoras
+Proceso
+Revertir
+Revert & & Process
+Navegar
+Búsqueda
+No conectado
+No se puede conectar ...
+Conectado. (Conexión directa a SQL Server)
+coordinarX
+coordinarY
+Salvar
+Opciones
+Nombre del personaje
+Ranura1
+Ranura2
+Ranura3
+Obtener GemaID
+Gema Lvl
+Gema ID
+Borrar
+Experiencia-Per-Nivel
+A partir de
+Precio Máximo
+Precio Mínimo
+Cualquier elemento inferior a este valor después de recibir este precio se
+Cualquier elemento superior a este valor después de recibir este precio se
+Multiplicador de los elementos (bueno es 150)
+41 = Bounty artículos, 31 = aparadores / partidas etc
+Nota: El precio de venta es 1 / 2 Original
+Multiplicador
+Tipo de artículo
+0 Artículos Bounty
+Copia de seguridad de sobrescritura
+Bounty artículo Repricer
+Editores de Auto
+Macro-comandos
+Inicio de sesión
+Dominio / IP: Puerto
+Nombre de usuario
+Contraseña
+Cuenta
+Archivo
+Salir
+Deja en blanco para obtener todos los resultados (no recomendado)
+Deja en blanco para obtener todos los resultados
+(Utilice una frase de la nombre del personaje)
+= Editar
+Informe de errores
+Editar Atributo Tipo
+Mapa
+Connected! (GM servidor)
+¡Error! Multiplicador de caja está vacía, es NaN, o es igual a 0
+Revertir completa.
+Listo para el proceso ...
+¡Error! Número de línea inicial es incorrecta!
+Procesando ...
+ Cambiado
+Los comandos de macro son los comandos que se utilizan en gran escala. Esto puede incluir \ "CharWipe \".
+Terminado con éxito
+Error: Las líneas no reescrito ...
+N Ropa
+Ningún artículo
+Error ...
+no es el número!
+Opciones
+Configuración
+Ayuda
+Contenidos
+Sobre
+Bienvenido
+Bienvenido!
+GM Herramienta
+Artículo
+Atributo
+Para que esto surta efecto, tiene que mover el tema
+Atributos del Elemento
+Creación de objetos
+Gema Nivel (101-109)
+Valor
+Cantidad
+Inventario de Slot
+artículo ID
+Auto
+Buscar Habilidad y Copia
+Ocultar
+Valor
+Valor
+Habilidades
+Ocultar
+Inventario de la capacidad (máximo 48)
+Atributo
+Clase
+Teleport
+Teleport a usted
+Teleportación de caracteres
+Seleccionados
+Actualiza monstruos
+dejar de gameserver
+Actualizar la base de los archivos
+monstruo
+Creature Tipo
+Múltiple / citación individual
+Individual, cuyo momento de convocar a
+¡Advertencia! cualquier desovar que hace sólo puede ser quitado por reiniciar el servidor.
+Comportamiento
+Tiempo de Spawn (segundos)
+Encontrar monstruo && Copiar
+Especial
+Unmuting
+Milisegundos
+Tiempo de Muted
+Texto para que diga
+Tiempo total
+Intervalo
+Char Información de conexión
+Mudo
+Aviso temporizado
+administrador de la cuenta
+prohibido
+(Utilice una frase de la ACC / Nombre Char)
+Deja en blanco para obtener todos los resultados
+De caracteres de identificación
+ID de la cuenta
+Nombre del personaje
+Nombre de la cuenta
+Personajes
+Contraseña
+Identificados
+Es GM
+Configuración de la cuenta
+Buscar por:
+Gerente de caracteres
+Actualizar
+Inventario
+Buscar artículo
+No Ropa
+Atributo 5
+Atributo 4
+Atributo 3
+Atributo 2
+Atributo 1
+Ropa de datos
+De datos de atributos
+Gem de datos
+Limpie Todos los Equipos
+Guardar elementos
+Artículo seleccionado de datos
+Posición
+Zoom 4x
+Zoom 8x
+Zoom 2x
+Zoom
+Normal
+ - Actual
+ - Target
+Habilidades
+Habilidad Descripción
+Grado de Dificultad
+Nombre de Habilidad
+Agregar
+Habilidad de datos
+Tipo de caracteres
+Nombre del personaje
+GM Servidor
+Conexión
+Iteminfo Ubicación:
+ID Reordenación
+Nivel 101-
+Lvl 251-300 Cálculo
+Salida
+Lvl 101-150 Cálculo
+Lvl 201-250 Cálculo
+Lvl 151-200 Cálculo
+Inyectar secuencias de comandos
+servidor Script Ubicación
+Hacer nueva partida
+hacer nuevo monstruo
+Hacer nuevos NPC
+2 && 3 renacimiento
+Tala
+Conexión
+el servidor de juego Registros
+Grandes ganancias de CAD
+Tipo de registro
+el servidor de juego (1-6)
+Cerrar sesión
+Inventario
+Guardar artículo
+Artículo seleccionado de datos
+ - Meta
+ - Actual
+Posición

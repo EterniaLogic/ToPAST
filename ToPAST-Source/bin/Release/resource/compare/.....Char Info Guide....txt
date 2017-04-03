@@ -1,0 +1,26 @@
+
+47: Item ID to DROP
+48: Item Droprate
+
+61: Monster LVL
+62: Mx HP
+63: Mn HP (Hp at which monster dies ?)
+64: Mx SP 
+65: Mn Sp (SP at which monster dies?)
+66: Mn ATTACK
+67: Mx ATTACK
+68: PR
+69: Defense
+70: Hit Rate ??
+71: flee  ??
+72: Monster Critical Rate  ??
+73: MF  ??
+74: H-REC
+75: S-REC
+76: ASPD of Monster
+77: Area of Detection
+78: After Detection Chase Area
+79: M-SPD (monster movement speed)
+80: 
+
+91: exp gained ?

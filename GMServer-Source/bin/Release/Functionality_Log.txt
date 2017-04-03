@@ -1,0 +1,22 @@
+﻿For this current Rev, you will get the following functionality with this server:
+
+
+Permisssions System (Allowing anybody with permissions to use the system) {Edit Users.conf}
+
+Account Login System for GMs
+
+SQL Editor & Requery
+
+MSG Encoder
+
+GM Chat "Your own private chat room"
+
+File Integration for DEVs, SCRIPTDEVs, and Game Administrators(GA)
+
+Full logging, and reversible actions system.
+	(Any action taken has an equal, and opposite action, but may require another action to be undo-ed).
+
+Fast & Flexible - You can quickly get the data whithout hesitation.
+
+Secure - Background SQL Injections, CRC Checks, Encryption.
+		Note: Any CRC Check that doesn't have a corresponding CRC will leave that IP & account to be Flagged.

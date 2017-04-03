@@ -1,0 +1,5 @@
+D:\Servers\reflector\ToP_Tools\EncodingTools\bin\Release\EncodingTools.dll
+D:\Servers\reflector\ToP_Tools\EncodingTools\bin\Release\EncodingTools.pdb
+D:\Servers\reflector\ToP_Tools\EncodingTools\obj\Release\ResolveAssemblyReference.cache
+D:\Servers\reflector\ToP_Tools\EncodingTools\obj\Release\EncodingTools.dll
+D:\Servers\reflector\ToP_Tools\EncodingTools\obj\Release\EncodingTools.pdb

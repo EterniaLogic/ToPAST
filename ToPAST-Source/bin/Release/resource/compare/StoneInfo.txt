@@ -1,0 +1,44 @@
+1	Fiery Gem	0878	1	1	ItemHint_LieYanS
+2	Furious Gem	0879	2,3,7,9	1	ItemHint_ZhiYanS
+3	Explosive Gem	0880	4	1	ItemHint_HuoYaoS
+4	Lustrious Gem	0881	1,2,3,4,7,9,23	1	ItemHint_MaNaoS
+5	Glowing Gem	0882	11,22,27	2	ItemHint_HanYu
+6	Shining Gem	0883	11,22,27	2	ItemHint_YueZhiX
+7	Shadow Gem	0884	1,2,3,4,7,9,24	2	ItemHint_ShuiLingS
+8	Spirit Gem	0887	1,2,3,4,7,9,23,24	4	ItemHint_ShengGuangS
+9	Gem of the Wind	0860	24	4	ItemHint_FengLingS
+10	Gem of Striking	0861	23	4	ItemHint_YingYanS
+11	Gem of Colossus	0862	11,22,27	4	ItemHint_YanVitS
+12	Gem of Rage	0863	1,2,3,4,7,9	4	ItemHint_YanStrS
+13	Eye of BlackDragon	0864	1,2,3,4,7,9	1	ItemHint_LongZhiTong
+14	Soul of BlackDragon	0865	11,22,27	2	ItemHint_LongZhiHun
+15	Heart of BlackDragon	0866	23,24	2	ItemHint_LongZhiXin
+16	Gem of Soul	1012	1,2,3,4,7,9,23	4	ItemHint_GaNaZhiShen
+17	Yellow Jade	5750	20	2	ItemHint_HuangYu
+18	Red Jade	5751	20	2	ItemHint_ChiY
+19	Green Jade	5752	20	2	ItemHint_QingYu
+20	Chiatan"s Aura	5771	20	1	ItemHint_XTLingGuang
+21	Lock"s Hit	5772	23	1	ItemHint_LKBiZhong
+22	Bing"s Dodging	5773	24	2	ItemHint_BBDuoShan
+23	Feng"s Defense	5774	22	2	ItemHint_FFDiYu
+24	Shark"s Strengthening	5775	22,27,11	4	ItemHint_XKQiangHua
+25	Azrael"s Glare	5845	1,2,3,4,7,9	4	ItemHint_SShuiyao
+26	Undead Azrael	5846	22,27	4	ItemHint_SSbusi
+27	Azrael"s Light	5847	1,2,3,4,7,9,22	4	ItemHint_SSguangmang
+28	Azrael"s Aggregation	5848	1,2,3,4,7,9,23	4	ItemHint_SSningju
+29	Azrael"s Dance	5849	24	4	ItemHint_SSxuanwu
+30	Broken Gem of the Wind	6817	24	4	ItemHint_HLS
+31	Cracked Gem of the Wind	6818	24	4	ItemHint_HYS
+32	Chipped Gem of the Wind	6819	24	4	ItemHint_HJS
+33	Broken Gem of the Striking	6820	23	4	ItemHint_BLS
+34	Cracked Gem of the Striking	6821	23	4	ItemHint_BYS
+35	Chipped Gem of the Striking	6822	23	4	ItemHint_BJS
+36	Broken Gem of the Colossus	6823	22,27	4	ItemHint_CLS
+37	Cracked Gem of the Colossus	6824	22,27	4	ItemHint_CYS
+38	Chipped Gem of the Colossus	6825	22,27	4	ItemHint_CJS
+39	Broken Gem of the Rage	6826	1,2,3,4,7,9	4	ItemHint_ZLS
+40	Cracked Gem of the Rage	6827	1,2,3,4,7,9	4	ItemHint_ZYS
+41	Chipped Gem of the Rage	6828	1,2,3,4,7,9	4	ItemHint_ZJS
+42	Broken Gem of the Soul	6830	1,2,3,4,7,9	4	ItemHint_QLS
+43	Cracked Gem of the Soul	6831	1,2,3,4,7,9	4	ItemHint_QYS
+44	Chipped gem of the Soul	6832	1,2,3,4,7,9	4	ItemHint_QJS

@@ -1,0 +1,6 @@
+//编号	Party Name	   所属区          Gate Address 01      Gate地址2      Gate Address 3     Gate Address 4    Gate Address 5
+1	SeverSet2	mindwave专区	192.168.1.221	0	0	0	0
+2	Pirate King 168	mindwave专区	192.168.1.168	0	0	0	0
+3	Pirate King 223	mindwave专区	192.168.1.223	0	0	0	0
+4	Pirate King 16	mindwave专区	192.168.1.16	0	0	0	0
+5	Test Server	最新体验专区	61.152.115.80	0	0	0	0

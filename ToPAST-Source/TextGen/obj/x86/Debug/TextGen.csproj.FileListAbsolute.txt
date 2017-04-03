@@ -1,0 +1,8 @@
+C:\CSharp\ToP_Tools\TextGen\bin\Debug\TextGen.exe
+C:\CSharp\ToP_Tools\TextGen\bin\Debug\TextGen.pdb
+C:\CSharp\ToP_Tools\TextGen\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\CSharp\ToP_Tools\TextGen\obj\x86\Debug\TextGen.Form1.resources
+C:\CSharp\ToP_Tools\TextGen\obj\x86\Debug\TextGen.Properties.Resources.resources
+C:\CSharp\ToP_Tools\TextGen\obj\x86\Debug\TextGen.csproj.GenerateResource.Cache
+C:\CSharp\ToP_Tools\TextGen\obj\x86\Debug\TextGen.exe
+C:\CSharp\ToP_Tools\TextGen\obj\x86\Debug\TextGen.pdb

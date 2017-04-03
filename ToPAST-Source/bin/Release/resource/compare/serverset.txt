@@ -1,0 +1,2 @@
+//Number	Group Name	   Affiliated Region          Gate Address 01      Gate Address 2      Gate Address 3     Gate Address 4    Gate Address 5
+1	testserver	testarea	192.168.16.161	0	0	0	0

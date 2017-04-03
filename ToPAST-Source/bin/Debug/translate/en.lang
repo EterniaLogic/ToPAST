@@ -1,0 +1,333 @@
+ToPAST: Tales of Pirates Server Tools
+Error! Maximum box is empty or is NaN
+Error! Mininum box is empty or is NaN
+Generate && Copy
+Ammount to spawn
+Time of Spawn (Seconds)
+YES
+NO
+Ban
+Unban
+Promote
+Demote
+'|' = Sq Root, '^' = Power of, '#' = Direct Add
+Copy
+Load
+No
+Yes
+New
+Change
+IP
+Paste (Ctrl+V)
+Or
+Go
+Find Skill
+Find Item
+Find Monster
+Find Character
+Monster Editor
+Skill Editor
+Generate
+Server
+Save by ID
+Editors
+Output
+Calculators
+Process
+Revert
+Revert && Process
+Browse
+Search
+Not Connected
+Unable to connect...
+Connected. (Direct Connection to SQL Server)
+CoordX
+CoordY
+Save
+Options
+Character name
+Slot1
+Slot2
+Slot3
+Get GemID
+GemLvl
+GemID
+Delete
+Experience-Per-Level
+Starting from
+Maximum Price
+Minimum Price
+Any items lower than this value after will get this price
+Any items higher than this value after will get this price
+Multiplier for the items (good is 150)
+41 = Bounty Items, 31 = Chests/ect items
+Note: Sell price is 1/2 Original
+Multiplier
+Item Type
+0 Bounty Items
+Overwrite Backup
+Bounty Item Repricer
+Auto Editors
+Macro-Commands
+Login
+Domain/IP:Port
+Username
+Password
+Account
+File
+Exit
+Leave blank to get all results (Not recommended)
+Leave blank to get all results
+(Use a phrase from the Char Name)
+= Edit
+Report Bug
+Edit Attribute Type
+Map
+Connected! (GM Server)
+Error! Multiplier box is empty, is NaN, or equals 0
+Revert complete.
+Ready to process...
+Error! Starting line number is incorrect!
+Processing...
+ Changed
+Macro commands are commands that are used on a large scale. This can include \"CharWipe\".
+Finished Successfully with 
+Error: Lines not rewritten...
+No Apparel
+No Item
+Error...
+is not number!
+Options
+Settings
+Help
+Contents
+About
+Welcome
+Welcome!
+GM Tool
+Item
+Attribute
+For these to take effect, you need to move the item
+Item Attributes
+Item Creation
+Gem Level (101-109)
+Value
+Ammount
+Inventory Slot
+Item ID
+Self
+Find Skill && Copy
+Hiding
+Value
+Value
+Skills
+Hide
+Inventory Capacity (Max 48)
+Attribute
+Class
+Teleport
+Teleport to you
+Character Teleportation
+Selected
+Refresh Monsters
+Stop Gameserver
+Update Base Files
+Monster
+Summon Type
+Multiple/Single summons
+Single, Timed summon
+Warning! any spawn that you make can only be taken off by restarting the server.
+Behavior
+Time of Spawn (Seconds)
+Find Monster && Copy
+Special
+Unmuting
+Milliseconds
+Time Muted
+Text To say
+Total Time
+Interval
+Char Connection Info
+Mute Character
+Timed Notice
+Account Manager
+Banned
+(Use a phrase from the Acc/Char Name)
+Leave blank to get all results
+Character ID
+Account ID
+Character Name
+Account Name
+Characters
+Login Pass
+Logged in
+Is GM
+Account Settings
+Search by:
+Character Manager
+Refresh
+Inventory
+Find Item
+No Apparel
+Attribute 5
+Attribute 4
+Attribute 3
+Attribute 2
+Attribute 1
+Apparel Data
+Attribute Data
+Gem Data
+Wipe All Equipment
+Save Items
+Selected Item Data
+Position
+Zoom 4x
+Zoom 8x
+Zoom 2x
+Zoom
+Normal
+ - Current
+ - Target
+Skills
+Skill Description
+Skill Level
+Skill Name
+Add
+Skill Data
+Character Type
+Character name
+GM Server
+Connection
+ItemInfo Loc:
+ID Reordering
+Level 101-
+Lvl 251-300 Calculation
+Output
+Lvl 101-150 Calculation
+Lvl 201-250 Calculation
+Lvl 151-200 Calculation
+Inject Script
+Server script Location
+Make new Item
+Make new Monster
+Make new NPC
+2 && 3 Rebirth
+Logging
+Connection
+GameServer Logs
+Huge EXP Gains
+Log Type
+GameServer (1-6)
+Logout
+Inventory
+Save Item
+Selected Item Data
+ - Target
+ - Current
+ Position
+<b><font size=\"+6\" color=\"red\">Welcome!</font></b>
+<b><font size=\"+5\"><font color=\"blue\"><i>Inventory</i></font> <font color=\"#B02B2C\">Viewer</font></font></b>
+<b><font size=\"+5\"><font color=\"blue\"><i>Character</i></font> <font color=\"#B02B2C\">Finder</font></font></b>
+<b><font size=\"+5\"><font color=\"blue\"><i>Experience</i></font> Per <font color=\"#B02B2C\">Level</font></font></b>
+<b><font size=\"+5\"><font color=\"blue\"><i>Skills</i></font> <font color=\"#B02B2C\">Viewer</font></font></b>
+<b><font size=\"+5\"><font color=\"blue\"><i>Other</i></font> Character <font color=\"#B02B2C\">Options</font></font></b>
+<b><font size=\"+5\"><font color=\"blue\"><i>Account</i></font> <font color=\"#B02B2C\">Manager</font></font></b>
+<b><font size=\"+5\"><font color=\"blue\"><i>Experience</i></font> Per <font color=\"#B02B2C\">Level</font></font></b>
+<b><font size=\"+5\"><font color=\"blue\"><i>I D</i></font> <font color=\"#B02B2C\">Reordering</font></font></b>
+The ID Reorderer is used to reorder the IDs in most .txt files. Set the to-begin-with line to 0 if you need to start from line 0.
+<b><font size=\"+5\"><font color=\"blue\"><i>Bounty</i></font> Item <font color=\"#B02B2C\">Repricer</font></font></b>
+<b><font size=\"+5\"><font color=\"blue\"><i>GM</i></font> <font color=\"#B02B2C\">Server</font></font></b>
+<b><font size=\"+5\"><font color=\"blue\"><i>GM</i></font> <font color=\"#B02B2C\">Tool</font></font></b>
+The GM Tool System is used to easily obtain a GM Code.\r\n\r\nOnce you\'ve pressed Generate && Copy, Goto the Game client, and press Ctrl+V to paste the sript into the chat line in the game.
+<b><font size=\"+5\"><font color=\"blue\"><i>Per</i></font> Line <font color=\"#B02B2C\">Editors</font></font></b>
+The Item, Monster, and Skill Editors are used to directly edit a line, and generate (or save) a line. Each vlaue is paired with the parameters.
+<b><font size=\"+5\"><font color=\"blue\"><i>Download</i></font> && <font color=\"#B02B2C\">Install</font></font></b>
+<b><font size=\"+5\"><font color=\"blue\"><i>Creation && Editing</i></font> the <font color=\"#B02B2C\">User</font></font></b>
+<b><font size=\"+5\"><font color=\"blue\"><i>Creating and adding</i></font> the <font color=\"#B02B2C\">DBs</font></font></b>
+<b><font size=\"+5\"><font color=\"blue\"><i>Editing</i></font> the <font color=\"#B02B2C\">SQL Server Config</font></font></b>
+<b><font size=\"+5\"><font color=\"blue\"><i>Download</i></font> && <font color=\"#B022B2C\">Servers</font></font></b>
+<b><font size=\"+5\"><font color=\"blue\"><i>Starting</i></font> the <font color=\"#B02B2C\">Servers</font></font></b>
+<b><font size=\"+5\"><font color=\"blue\"><i>Editing</i></font> the <font color=\"#B02B2C\">Server Configs</font></font></b>
+t<b><font size=\"+5\"><font color=\"blue\"><i>Editing</i></font> the <font color=\"#B02B2C\">Config</font></font></b>
+<b><font size=\"+5\"><font color=\"blue\"><i>Editing</i></font> the <font color=\"#B02B2C\">Config</font></font></b>
+Images
+Server 1.5
+Server 2.0
+Edit Server Configs
+ToP Server Setup
+DL && Install
+ToPAST Setup
+Startup
+SQL Setup
+Edit SQL Server Config
+Create and add DBs
+MSSQL 2008 SSMSE
+MSSQL 2k-2005 SMSSE
+MSSQL 2000
+MSSQL 2005
+MSSQL 2008
+Select a download Link
+ToPAST Help
+Editors
+GM Tool
+Auto Editors
+Bounty Item Repricer
+Create User
+ID Reorder
+Options
+Skills
+ToPAST GM Server Setup
+Send Bug Report
+Problem Topic
+Your name
+Description
+Bug Reporter
+
+Tales of Pirates Tools
+Tales of Pirates
+Finished
+Resources
+Database
+Initialization
+&Previous
+&Cancel
+&Next
+Welcome to the Tales of Pirates Tools Setup Wizard. You can configure your client" +
+Welcome!
+Server
+127.0.0.1
+Password Prompted
+game
+Server
+gamedb
+accountserver
+Username
+Game DB
+Account DB
+Via GM Server
+Direct Connection
+You may configure a connection directly or indirectly with the sql server.
+Database Connections
+For advanced features, ToPAST needs to know where your scripting folder is on you" +
+The ToP Tools uses the game resources all of the time.\r\nThis folder contains Item" +
+Find Scripting folder
+Find Resources folder
+Thank you for using the ToPAST Setup Wizard!
+Finished!
+Setup Wizard
+Welcome to the Tales of Pirates Tools Setup Wizard. You can configure your client with this tool.
+For advanced features, ToPAST needs to know where your scripting folder is on your server.\r\nLeave this blank if you do not have a direct folder share with the server.
+The ToP Tools uses the game resources all of the time.\r\nThis folder contains Iteminfo.txt, skillinfo.txt, ect.
+
+Version
+
+About this source
+Credibility Picure
+Select a Source to view Credibility
+Secondary Credibility
+<font size=\"+1\"><b>Email</b>:</font><br/>\r\n<font color=\"red\">brclancy111@hotmail.com</font>\r\n
+<b><font size=\"+6\">Primary Credits goto:</font></b>
+Main Credibility
+About
+
+-Report a bug to brclancy111.\r\n-Please specify the problem in detail.\r\n-If it isn\'t a puzzling bug, it will be released\r\nin the next version.

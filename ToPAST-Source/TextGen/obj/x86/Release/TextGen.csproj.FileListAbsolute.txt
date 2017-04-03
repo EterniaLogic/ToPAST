@@ -1,0 +1,16 @@
+D:\Servers\reflector\ToP_Tools\TextGen\bin\Release\TextGen.exe
+D:\Servers\reflector\ToP_Tools\TextGen\bin\Release\TextGen.pdb
+D:\Servers\reflector\ToP_Tools\TextGen\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Servers\reflector\ToP_Tools\TextGen\obj\x86\Release\TextGen.Properties.Resources.resources
+D:\Servers\reflector\ToP_Tools\TextGen\obj\x86\Release\TextGen.csproj.GenerateResource.Cache
+D:\Servers\reflector\ToP_Tools\TextGen\obj\x86\Release\TextGen.exe
+D:\Servers\reflector\ToP_Tools\TextGen\obj\x86\Release\TextGen.pdb
+D:\Servers\reflector\ToP_Tools\TextGen\obj\x86\Release\TextGen.Form1.resources
+C:\CSharp\ToP_Tools\TextGen\obj\x86\Release\TextGen.exe
+C:\CSharp\ToP_Tools\TextGen\obj\x86\Release\TextGen.pdb
+C:\CSharp\ToP_Tools\TextGen\bin\Release\TextGen.exe
+C:\CSharp\ToP_Tools\TextGen\bin\Release\TextGen.pdb
+C:\CSharp\ToP_Tools\TextGen\obj\x86\Release\ResolveAssemblyReference.cache
+C:\CSharp\ToP_Tools\TextGen\obj\x86\Release\TextGen.Form1.resources
+C:\CSharp\ToP_Tools\TextGen\obj\x86\Release\TextGen.Properties.Resources.resources
+C:\CSharp\ToP_Tools\TextGen\obj\x86\Release\TextGen.csproj.GenerateResource.Cache

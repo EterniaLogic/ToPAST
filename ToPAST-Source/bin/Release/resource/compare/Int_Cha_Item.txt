@@ -1,0 +1,2 @@
+//ID	Class	endow item serial
+0	Newbie	289,641,8

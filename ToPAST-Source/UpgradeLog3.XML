@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="ToP_Tools - Copy">
+</Property><Property Name="Solution File" Value="D:\Servers\reflector\ToP_Tools\ToP_Tools - Copy.sln">
+</Property><Property Name="Date" Value="Thursday, January 21, 2010">
+</Property><Property Name="Time" Value="14:07:31 PM">
+</Property><Property Name="Log Number" Value="3">
+</Property></Properties><Event ErrorLevel="0" Project="EncodingTools" Source="EncodingTools\EncodingTools.csproj" Description="Project file successfully backed up as D:\Servers\reflector\ToP_Tools\Backup2\EncodingTools.csproj">
+</Event><Event ErrorLevel="0" Project="EncodingTools" Source="EncodingTools\EncodingTools.cs" Description="File successfully backed up as D:\Servers\reflector\ToP_Tools\Backup2\EncodingTools.cs">
+</Event><Event ErrorLevel="0" Project="EncodingTools" Source="EncodingTools\Multilang\CMLangConvertCharset.cs" Description="File successfully backed up as D:\Servers\reflector\ToP_Tools\Backup2\Multilang\CMLangConvertCharset.cs">
+</Event><Event ErrorLevel="0" Project="EncodingTools" Source="EncodingTools\Multilang\CMLangConvertCharsetClass.cs" Description="File successfully backed up as D:\Servers\reflector\ToP_Tools\Backup2\Multilang\CMLangConvertCharsetClass.cs">
+</Event><Event ErrorLevel="0" Project="EncodingTools" Source="EncodingTools\Multilang\CMLangString.cs" Description="File successfully backed up as D:\Servers\reflector\ToP_Tools\Backup2\Multilang\CMLangString.cs">
+</Event><Event ErrorLevel="0" Project="EncodingTools" Source="EncodingTools\Multilang\CMLangStringClass.cs" Description="File successfully backed up as D:\Servers\reflector\ToP_Tools\Backup2\Multilang\CMLangStringClass.cs">
+</Event><Event ErrorLevel="0" Project="EncodingTools" Source="EncodingTools\Multilang\CMultiLanguage.cs" Description="File successfully backed up as D:\Servers\reflector\ToP_Tools\Backup2\Multilang\CMultiLanguage.cs">
+</Event><Event ErrorLevel="0" Project="EncodingTools" Source="EncodingTools\Multilang\CMultiLanguageClass.cs" Description="File successfully backed up as D:\Servers\reflector\ToP_Tools\Backup2\Multilang\CMultiLanguageClass.cs">
+</Event><Event ErrorLevel="0" Project="EncodingTools" Source="EncodingTools\Multilang\IEnumCodePage.cs" Description="File successfully backed up as D:\Servers\reflector\ToP_Tools\Backup2\Multilang\IEnumCodePage.cs">
+</Event><Event ErrorLevel="0" Project="EncodingTools" Source="EncodingTools\Multilang\IEnumRfc1766.cs" Description="File successfully backed up as D:\Servers\reflector\ToP_Tools\Backup2\Multilang\IEnumRfc1766.cs">
+</Event><Event ErrorLevel="0" Project="EncodingTools" Source="EncodingTools\Multilang\IEnumScript.cs" Description="File successfully backed up as D:\Servers\reflector\ToP_Tools\Backup2\Multilang\IEnumScript.cs">
+</Event><Event ErrorLevel="0" Project="EncodingTools" Source="EncodingTools\Multilang\IMLangCodePages.cs" Description="File successfully backed up as D:\Servers\reflector\ToP_Tools\Backup2\Multilang\IMLangCodePages.cs">
+</Event><Event ErrorLevel="0" Project="EncodingTools" Source="EncodingTools\Multilang\IMLangConvertCharset.cs" Description="File successfully backed up as D:\Servers\reflector\ToP_Tools\Backup2\Multilang\IMLangConvertCharset.cs">
+</Event><Event ErrorLevel="0" Project="EncodingTools" Source="EncodingTools\Multilang\IMLangFontLink.cs" Description="File successfully backed up as D:\Servers\reflector\ToP_Tools\Backup2\Multilang\IMLangFontLink.cs">
+</Event><Event ErrorLevel="0" Project="EncodingTools" Source="EncodingTools\Multilang\IMLangFontLink2.cs" Description="File successfully backed up as D:\Servers\reflector\ToP_Tools\Backup2\Multilang\IMLangFontLink2.cs">
+</Event><Event ErrorLevel="0" Project="EncodingTools" Source="EncodingTools\Multilang\IMLangLineBreakConsole.cs" Description="File successfully backed up as D:\Servers\reflector\ToP_Tools\Backup2\Multilang\IMLangLineBreakConsole.cs">
+</Event><Event ErrorLevel="0" Project="EncodingTools" Source="EncodingTools\Multilang\IMLangString.cs" Description="File successfully backed up as D:\Servers\reflector\ToP_Tools\Backup2\Multilang\IMLangString.cs">
+</Event><Event ErrorLevel="0" Project="EncodingTools" Source="EncodingTools\Multilang\IMLangStringAStr.cs" Description="File successfully backed up as D:\Servers\reflector\ToP_Tools\Backup2\Multilang\IMLangStringAStr.cs">
+</Event><Event ErrorLevel="0" Project="EncodingTools" Source="EncodingTools\Multilang\IMLangStringBufA.cs" Description="File successfully backed up as D:\Servers\reflector\ToP_Tools\Backup2\Multilang\IMLangStringBufA.cs">
+</Event><Event ErrorLevel="0" Project="EncodingTools" Source="EncodingTools\Multilang\IMLangStringBufW.cs" Description="File successfully backed up as D:\Servers\reflector\ToP_Tools\Backup2\Multilang\IMLangStringBufW.cs">
+</Event><Event ErrorLevel="0" Project="EncodingTools" Source="EncodingTools\Multilang\IMLangStringWStr.cs" Description="File successfully backed up as D:\Servers\reflector\ToP_Tools\Backup2\Multilang\IMLangStringWStr.cs">
+</Event><Event ErrorLevel="0" Project="EncodingTools" Source="EncodingTools\Multilang\IMultiLanguage.cs" Description="File successfully backed up as D:\Servers\reflector\ToP_Tools\Backup2\Multilang\IMultiLanguage.cs">
+</Event><Event ErrorLevel="0" Project="EncodingTools" Source="EncodingTools\Multilang\IMultiLanguage2.cs" Description="File successfully backed up as D:\Servers\reflector\ToP_Tools\Backup2\Multilang\IMultiLanguage2.cs">
+</Event><Event ErrorLevel="0" Project="EncodingTools" Source="EncodingTools\Multilang\IMultiLanguage3.cs" Description="File successfully backed up as D:\Servers\reflector\ToP_Tools\Backup2\Multilang\IMultiLanguage3.cs">
+</Event><Event ErrorLevel="0" Project="EncodingTools" Source="EncodingTools\Multilang\ISequentialStream.cs" Description="File successfully backed up as D:\Servers\reflector\ToP_Tools\Backup2\Multilang\ISequentialStream.cs">
+</Event><Event ErrorLevel="0" Project="EncodingTools" Source="EncodingTools\Multilang\IStream.cs" Description="File successfully backed up as D:\Servers\reflector\ToP_Tools\Backup2\Multilang\IStream.cs">
+</Event><Event ErrorLevel="0" Project="EncodingTools" Source="EncodingTools\Multilang\tagMLDETECTCP.cs" Description="File successfully backed up as D:\Servers\reflector\ToP_Tools\Backup2\Multilang\tagMLDETECTCP.cs">
+</Event><Event ErrorLevel="0" Project="EncodingTools" Source="EncodingTools\Multilang\tagDetectEncodingInfo.cs" Description="File successfully backed up as D:\Servers\reflector\ToP_Tools\Backup2\Multilang\tagDetectEncodingInfo.cs">
+</Event><Event ErrorLevel="0" Project="EncodingTools" Source="EncodingTools\Multilang\tagMIMECONTF.cs" Description="File successfully backed up as D:\Servers\reflector\ToP_Tools\Backup2\Multilang\tagMIMECONTF.cs">
+</Event><Event ErrorLevel="0" Project="EncodingTools" Source="EncodingTools\Multilang\tagMIMECPINFO.cs" Description="File successfully backed up as D:\Servers\reflector\ToP_Tools\Backup2\Multilang\tagMIMECPINFO.cs">
+</Event><Event ErrorLevel="0" Project="EncodingTools" Source="EncodingTools\Multilang\tagMIMECSETINFO.cs" Description="File successfully backed up as D:\Servers\reflector\ToP_Tools\Backup2\Multilang\tagMIMECSETINFO.cs">
+</Event><Event ErrorLevel="0" Project="EncodingTools" Source="EncodingTools\Multilang\tagMLCPF.cs" Description="File successfully backed up as D:\Servers\reflector\ToP_Tools\Backup2\Multilang\tagMLCPF.cs">
+</Event><Event ErrorLevel="0" Project="EncodingTools" Source="EncodingTools\Multilang\tagMLSTR_FLAGS.cs" Description="File successfully backed up as D:\Servers\reflector\ToP_Tools\Backup2\Multilang\tagMLSTR_FLAGS.cs">
+</Event><Event ErrorLevel="0" Project="EncodingTools" Source="EncodingTools\Multilang\tagRFC1766INFO.cs" Description="File successfully backed up as D:\Servers\reflector\ToP_Tools\Backup2\Multilang\tagRFC1766INFO.cs">
+</Event><Event ErrorLevel="0" Project="EncodingTools" Source="EncodingTools\Multilang\tagSCRIPFONTINFO.cs" Description="File successfully backed up as D:\Servers\reflector\ToP_Tools\Backup2\Multilang\tagSCRIPFONTINFO.cs">
+</Event><Event ErrorLevel="0" Project="EncodingTools" Source="EncodingTools\Multilang\tagSCRIPTINFO.cs" Description="File successfully backed up as D:\Servers\reflector\ToP_Tools\Backup2\Multilang\tagSCRIPTINFO.cs">
+</Event><Event ErrorLevel="0" Project="EncodingTools" Source="EncodingTools\Multilang\tagSTATSTG.cs" Description="File successfully backed up as D:\Servers\reflector\ToP_Tools\Backup2\Multilang\tagSTATSTG.cs">
+</Event><Event ErrorLevel="0" Project="EncodingTools" Source="EncodingTools\Multilang\tagUNICODERANGE.cs" Description="File successfully backed up as D:\Servers\reflector\ToP_Tools\Backup2\Multilang\tagUNICODERANGE.cs">
+</Event><Event ErrorLevel="0" Project="EncodingTools" Source="EncodingTools\Multilang\_FILETIME.cs" Description="File successfully backed up as D:\Servers\reflector\ToP_Tools\Backup2\Multilang\_FILETIME.cs">
+</Event><Event ErrorLevel="0" Project="EncodingTools" Source="EncodingTools\Multilang\_LARGE_INTEGER.cs" Description="File successfully backed up as D:\Servers\reflector\ToP_Tools\Backup2\Multilang\_LARGE_INTEGER.cs">
+</Event><Event ErrorLevel="0" Project="EncodingTools" Source="EncodingTools\Multilang\_RemotableHandle.cs" Description="File successfully backed up as D:\Servers\reflector\ToP_Tools\Backup2\Multilang\_RemotableHandle.cs">
+</Event><Event ErrorLevel="0" Project="EncodingTools" Source="EncodingTools\Multilang\_ULARGE_INTEGER.cs" Description="File successfully backed up as D:\Servers\reflector\ToP_Tools\Backup2\Multilang\_ULARGE_INTEGER.cs">
+</Event><Event ErrorLevel="0" Project="EncodingTools" Source="EncodingTools\Multilang\__MIDL_IWinTypes_0009.cs" Description="File successfully backed up as D:\Servers\reflector\ToP_Tools\Backup2\Multilang\__MIDL_IWinTypes_0009.cs">
+</Event><Event ErrorLevel="0" Project="EncodingTools" Source="EncodingTools\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\Servers\reflector\ToP_Tools\Backup2\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="EncodingTools" Source="EncodingTools\EncodingTools.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="EncodingTools" Source="EncodingTools\EncodingTools.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="EncodingTools" Source="EncodingTools\EncodingTools.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
