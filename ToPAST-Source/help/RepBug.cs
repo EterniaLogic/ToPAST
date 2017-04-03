@@ -22,22 +22,7 @@ namespace ToP_Tools.help
             if (textBox2.Text.Length >= 1 && textBox1.Text.Length >= 1 && richTextBox1.Text.Length >= 1)
             {
                 System.Net.Mail.MailMessage message = new System.Net.Mail.MailMessage();
-                try
-                {
-                    //message.
-                    //message.Fields.Add("http://schemas.microsoft.com/cdo/configuration/smtpauthenticate", 1);
-                    //message.Fields.Add("http://schemas.microsoft.com/cdo/configuration/sendusername", "brclancy111@hotmail.com");
-                    //message.Fields.Add("http://schemas.microsoft.com/cdo/configuration/sendpassword", "182SIXTxd");
-                    message.To.Add("brclancy111@hotmail.com");
-                    message.Subject = "(ToPAST Bug REPORT): "+"["+textBox2.Text+"] - "+textBox1.Text;
-                    message.From = new System.Net.Mail.MailAddress(textBox2.Text + "@ToPAST_Bug_Reporter.com");
-                    message.Body = richTextBox1.Text;
-                    System.Net.Mail.SmtpClient smtp = new System.Net.Mail.SmtpClient("smtp.gmail.com",587);
-                    smtp.Credentials = new System.Net.NetworkCredential("brclancy111@gmail.com", "182Txd");
-                    smtp.EnableSsl = true;
-                    smtp.Send(message);
-                }
-                catch(Exception e1) { MessageBox.Show("Error in sending bug request\n\n"+e1.Message); }
+                MessageBox.Show("Disabled");
                 base.Close();
             }
             else
